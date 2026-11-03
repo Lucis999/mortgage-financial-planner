@@ -235,4 +235,5 @@ The screenshot gallery uses **hypothetical values**; screenshots are examples, n
 - [OSFI — Loan-to-income limits for uninsured mortgage portfolios](https://www.osfi-bsif.gc.ca/en/supervision/financial-institutions/banks/loan-income-limits-uninsured-mortgage-portfolios)
 
 **License:** No open-source license has been selected. All rights reserved unless a license is added.  
-**Live demo:** To be added after deployment.
+**Live demo:** [Open Mortgage Financial Planner](https://lucis-mortgage-planner.streamlit.app/)  
+**Portfolio:** [Project walkthrough and screenshots](https://lucis999.github.io/project-home-affordability.html)
