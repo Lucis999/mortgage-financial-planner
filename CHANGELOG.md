@@ -2,7 +2,10 @@
 - Replaced currency-containing Markdown summary with native KPI cards and plain text, avoiding accidental math parsing.
 - Added explicit, independently testable decision branches for qualification, capital, negative cash flow, lifestyle savings and combined constraints.
 - Updated verified Purchase Capital Allocation and Lifestyle Preservation screenshots and related README/case study captions.
-- Added Decision Takeaway screenshot capture instruction and scenario-consistency caveat.
+- Included the final Decision Takeaway screenshot and scenario-consistency caveat.
+- Made test source reads explicitly UTF-8 for Windows portability.
+- Added GitHub Actions tests on Ubuntu and Windows with Python 3.10 and 3.12.
+- Corrected README mathematical delimiters for GitHub rendering.
 
 ## v2.4.1 — Screenshot-ready UI fixes
 

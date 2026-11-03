@@ -117,11 +117,11 @@ The final summary does not automatically recommend purchasing. It interprets the
 
 ### Mortgage payment and qualification
 
-For mortgage principal \(P\), periodic interest rate \(r\), and number of monthly payments \(n\):
+For mortgage principal $P$, periodic interest rate $r$, and number of monthly payments $n$:
 
-\[
+$$
 M = \frac{P r}{1-(1+r)^{-n}}
-\]
+$$
 
 The model converts a nominal annual mortgage rate compounded semiannually to an effective monthly rate. The illustrative qualifying rate is the higher of **contract rate + 2 percentage points** and **5.25%**.
 
